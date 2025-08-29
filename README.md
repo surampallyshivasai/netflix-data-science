@@ -81,6 +81,6 @@ Build a Streamlit dashboard for interactive use
 Deploy as a web app
 
 🙌 Credits
-Dataset: Netflix Titles on Kaggle
+Dataset: [Netflix Titles on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download&SSORegistrationToken=CfDJ8BfigAjZUoJHuOjXpienVtDrMPutGbv2nAiTmQr9prPE5W6L-7nnfgXRf2zGhrj2ZH4NinB0AEGk16TUrpwjoO2kpBSbCHjcWfiaIIazCdb2TMMCp05jEjQenJnkpi16X0BkUNfHIlsJ9sxBrrWrJwVXs8SY3ux2D2zy80dmWAAtVgj7daMDYLuj41jd8JZqh0vtc6WoWu50njAWvsujXavxH76EYSjYT6waGCOiGwctX56Aa_GTJI9juhePx1b1dlA5017tICkYbRt4k4YtEdzasQ8uJhgONEKeNq0Rpup_a4bTGVfEgwtFhbicg17ph0Sybd6vfsBVqd0ppaZlWnxgNOA&DisplayName=Tech%20OnePlus8)
 
 Developed by Shiva Sai Surampally
